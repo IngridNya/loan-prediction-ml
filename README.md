@@ -108,6 +108,8 @@ Model deployment using Flask is a planned feature. Once complete, users will be 
 ## 📬 Contact
 
 For questions or feedback, feel free to reach out or open an issue.
+**Ingrid Nyakerario**  
+📎 [LinkedIn](https://www.linkedin.com/in/ingrid-ong-uti-43a93361/)
 
 ---
 
